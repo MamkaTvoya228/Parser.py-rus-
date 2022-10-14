@@ -1,2 +1,2 @@
 # Parser.py-rus
-The most best cool parser by apple
+The first parser for site NewsHaker
